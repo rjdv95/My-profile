@@ -14,14 +14,14 @@ class PortfolioSettings {
       ],
     ),
     PortfolioProjectsModel(
-      title: 'About Me',
+      title: 'My Profile',
       description:
-          'Personal website and mobile application containing my ré­su­mé as well as projects made using Flutter. Responsive design, optimized for multiple devices, screen sizes and orientations. Thus content is shown based on the space available while behavior is adaptive across platforms, e.g. displays mouse hand on web or inkwell button on mobile. The ré­su­mé is particularly noteworthy as it was created using 100% Flutter code.',
-      iconAssetPath: 'assets/images/common/aboutme_app_icon.png',
+          'Personal website and mobile application containing my resume as well as projects made using Flutter. Responsive design, optimized for multiple devices, screen sizes and orientations. Thus content is shown based on the space available while behavior is adaptive across platforms, e.g. displays mouse hand on web or inkwell button on mobile. The resume is particularly noteworthy as it was created using 100% Flutter code.',
+      iconAssetPath: 'assets/images/common/profile-icon.png',
       screenshotAssetPaths: [
-        'assets/images/portfolio/aboutme/01.png',
-        'assets/images/portfolio/aboutme/02.png',
-        'assets/images/portfolio/aboutme/03.png',
+        'assets/images/portfolio/aboutme/01.jpeg',
+        'assets/images/portfolio/aboutme/02.jpeg',
+        'assets/images/portfolio/aboutme/03.jpeg',
       ],
     ),
     PortfolioProjectsModel(

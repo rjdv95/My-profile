@@ -57,15 +57,15 @@ class ResumeSettings {
        ],
        assetPath: 'assets/images/common/Blogging_app_icon.png',
      ),
-    //ProjectDataModel(
-      //projectTitle: 'About Me',
-      //bulletPoints: [
-       // 'Personal website and mobile application.',
-       // 'Responsive design, optimized for multiple devices, screen sizes and orientations.',
-       // 'Adaptive behavior per platform, e.g. mouse hand on web, inkwell button on mobile.',
-      //],
-      //assetPath: 'assets/images/common/aboutme_app_icon.png',
-    //),
+    ProjectDataModel(
+      projectTitle: 'About Me',
+      bulletPoints: [
+        'Personal website and mobile application.',
+        'Responsive design, optimized for multiple devices, screen sizes and orientations.',
+        'Adaptive behavior per platform, e.g. mouse hand on web, inkwell button on mobile.',
+      ],
+      assetPath: 'assets/images/common/profilr-icon.png',
+    ),
      ProjectDataModel(
        projectTitle: 'Todo',
        bulletPoints: [
