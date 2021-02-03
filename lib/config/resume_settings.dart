@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class ResumeSettings {
   static const summary =
-      'More than 3.5 years of extensive experience in designing and developing WEBSITES and MOBILE APPLICATION using HTML, CSS, JAVASCRIPT, FLUTTER. Also having experience in the Design and Development of Data migration using SAP HANA and SAP BODS 4.1/4.2 ETL Tool as well as Data Visualization using tableau.';
+      'More than 3.8 years of extensive experience in designing and developing WEBSITES and MOBILE APPLICATION using HTML, CSS, JAVASCRIPT, FLUTTER. Also having experience in the Design and Development of Data migration using SAP HANA and SAP BODS 4.1/4.2 ETL Tool as well as Data Visualization using tableau.';
 
   static const skills = const [
     'Dart',
@@ -64,7 +64,7 @@ class ResumeSettings {
         'Responsive design, optimized for multiple devices, screen sizes and orientations.',
         'Adaptive behavior per platform, e.g. mouse hand on web, inkwell button on mobile.',
       ],
-      assetPath: 'assets/images/common/profilr-icon.png',
+      assetPath: 'assets/images/common/profile-icon.png',
     ),
      ProjectDataModel(
        projectTitle: 'Todo',
