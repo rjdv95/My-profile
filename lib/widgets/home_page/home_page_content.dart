@@ -112,9 +112,8 @@ class _AboutMe extends StatelessWidget {
             ),
             const SizedBox(height: 20),
              const Text(
-                    'Have rich experience in building mobile and web apps.\n'
-                   'I also worked as a data analyst and data visualization.\n'
-                    'Machine Learning enthusiast',
+                    'More than 3.8 years of extensive experience in designing and developing WEBSITES\n'
+                    'and MOBILE APPLICATION using HTML, CSS, JAVASCRIPT, FLUTTER , REACTJS.',
               textAlign: TextAlign.start,
               style: const TextStyle(
                 fontSize: 25
