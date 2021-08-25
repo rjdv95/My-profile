@@ -14,6 +14,6 @@ class NavigationItemDataModel {
 
 const navBarItems = const [
   NavigationItemDataModel(title: 'Home', routeName: RouteNames.home),
-  NavigationItemDataModel(title: 'PORTFOLIO', routeName: RouteNames.PORTFOLIO),
+  NavigationItemDataModel(title: 'PROJECTS', routeName: RouteNames.PROJECTS),
   NavigationItemDataModel(title: 'RESUME', routeName: RouteNames.RESUME),
 ];

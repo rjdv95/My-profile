@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
 
       routes: {
         RouteNames.home: (_) => HomePage(),
-        RouteNames.PORTFOLIO: (_) => PortfolioPage(),
+        RouteNames.PROJECTS: (_) => PortfolioPage(),
         RouteNames.RESUME: (_) => ResumePage(),
       },
     );

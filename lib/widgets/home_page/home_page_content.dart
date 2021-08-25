@@ -112,8 +112,8 @@ class _AboutMe extends StatelessWidget {
             ),
             const SizedBox(height: 20),
              const Text(
-                    'More than 3.8 years of extensive experience in designing and developing WEBSITES\n'
-                    'and MOBILE APPLICATION using HTML, CSS, JAVASCRIPT, FLUTTER , REACTJS.',
+                    'Experienced App Developer, love to create amazing apps for mobile and Web \n'
+                    ,
               textAlign: TextAlign.start,
               style: const TextStyle(
                 fontSize: 25

@@ -1,5 +1,5 @@
 class RouteNames {
   static const home = '/';
-  static const PORTFOLIO = '/PORTFOLIO';
+  static const PROJECTS = '/PROJECTS';
   static const RESUME = '/RESUME';
 }

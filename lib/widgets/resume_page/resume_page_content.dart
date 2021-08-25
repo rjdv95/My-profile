@@ -78,9 +78,7 @@ class _LandscapeContent extends StatelessWidget {
         Row(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
-            Expanded(
-              child: Projects(),
-            ),
+            Expanded(child: Projects(),),
             const SizedBox(width: 16),
             Expanded(
               child: Column(
@@ -120,11 +118,11 @@ class _PortraitContent extends StatelessWidget {
         const SizedBox(height: 16),
         Summary(),
         const SizedBox(height: 16),
-        Projects(),
-        const SizedBox(width: 16),
-        Skills(),
-        const SizedBox(height: 24),
         Experience(),
+        const SizedBox(width: 16),
+        Projects(),
+        const SizedBox(height: 24),
+        Skills(),
         const SizedBox(height: 16),
         Education(),
         const SizedBox(height: 16),

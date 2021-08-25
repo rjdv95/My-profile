@@ -4,14 +4,13 @@ import 'package:flutter/material.dart';
 
 class ResumeSettings {
   static const summary =
-      'More than 3.8 years of extensive experience in designing and developing WEBSITES and MOBILE APPLICATION using HTML, CSS, JAVASCRIPT, FLUTTER. Also having experience in the Design and Development of Data migration using SAP HANA and SAP BODS 4.1/4.2 ETL Tool as well as Data Visualization using tableau.';
+      'More than 3.8 years of extensive experience in designing and developing WEBSITES and MOBILE APPLICATION using HTML, CSS, JAVASCRIPT, FLUTTER, React. ';
 
   static const skills = const [
     'Dart',
     'Flutter',
     'Javascript',
-    'SAP HANA',
-    'SAP BODS',
+    'React',
     'CSS',
     'Html',
     'Wordpress',
@@ -81,6 +80,12 @@ class ResumeSettings {
   ];
 
   static const List<PortfolioExperienceModel> jobs = const [
+    PortfolioExperienceModel(
+      icon: Icons.code,
+      title: 'App Developer',
+      company: 'Droidsolutions, Leipzig',
+      subtitle: 'May 2021 - present',
+    ),
     PortfolioExperienceModel(
       icon: Icons.code,
       title: 'Web Developer',
